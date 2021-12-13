@@ -13,6 +13,11 @@ This restriction ended with the DOCX document file conversion, which adapts to o
 Book Publishers:
 Ariya Publishers
 
+Abstract:
+Inheritance:
+Polymorphism:
+Encapsulation:
+
 The DOC and DOCX files are versatile and capable of handling tasks for contrasting user types. 
 The files contain text but also a wide array of visual elements including graphs and tables. 
 The main feature to note when deciding if this file type is right for your selection is the capability for editing it offers.
